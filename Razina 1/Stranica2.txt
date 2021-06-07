@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<p name = "prvi_paragraf">Koja je ovo vježba?</p>
-<a href = "Stranica1.html#prvi_paragraf">11.</a>
-<br>
-<a href = "Stranica3.html#drugi_paragraf">10.</a>
-</body>
-</html>
